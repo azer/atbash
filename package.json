@@ -1,0 +1,22 @@
+{
+  "name": "atbash",
+  "version": "0.0.0",
+  "description": "Atbash cipher",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "atbash",
+    "cipher"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/atbash.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
